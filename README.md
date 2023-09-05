@@ -18,7 +18,7 @@ Replace chorme, edge browser icons
 
 
 
-如果想要增加更多图标，只需要 打开这个[Google 表格](https://drive.google.com/file/d/1728B0BI7TUb35kv3OXWvjOEiqOs-Im7Q/view?usp=sharing)，截图自己需要的数字，保存为png格式。
+如果想要增加更多图标，只需要 打开这个[Google 表格](https://docs.google.com/spreadsheets/d/1fq1WYcoLF91xrzGYbFMEG7WFBh7uuVmzNjf3N_qWUtM/edit?usp=sharing)，截图自己需要的数字，保存为png格式。
 然后到这个网站转换 [https://www.icoconverter.com/](https://www.icoconverter.com/)
 
 
