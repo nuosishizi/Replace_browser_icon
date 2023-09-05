@@ -5,7 +5,7 @@ Replace chorme, edge browser icons
 我们替换下图标，任务栏就很好区分浏览器
 
 效果如下
-[https://i.imgur.com/SyVSawk.png](https://i.imgur.com/Ewzt11R.png)
+![https://i.imgur.com/SyVSawk.png](https://i.imgur.com/Ewzt11R.png)
 
 1、下载文件后
 
